@@ -2,6 +2,8 @@
 
 <!--
 **dpianelli/dpianelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dpianelli.dpianelli)
 
 Here are some ideas to get you started:
 
